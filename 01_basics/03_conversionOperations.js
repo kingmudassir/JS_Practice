@@ -9,4 +9,3 @@ let regularValue
 let booleanConvert = Boolean(regularValue)
 console.log(booleanConvert); console.log("\n");
 console.log(typeof(booleanConvert)); console.log("\n");
-
