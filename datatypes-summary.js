@@ -17,3 +17,6 @@ const myFunction = function(){
 console.log(typeof obj);
 console.log(typeof myFunction);
 console.log(typeof arraynames);
+
+// Stack (Primitive Datatypes), Heap (Non-Primitive Datatypes)
+//He teaches call my reference and call by value stuff
